@@ -1,0 +1,1044 @@
+{
+  "generated_at": "2025-12-12T16:38:56.655720Z",
+  "conversation_summary": {
+    "num_turns_in_conversation": 13,
+    "num_pairs_evaluated": 6
+  },
+  "metadata": {
+    "num_context_items": 35,
+    "embedding_backend": "sentence-transformers",
+    "eval_duration_seconds": 31.140442,
+    "hallucination_threshold": 0.28,
+    "top_k_for_token_estimates": 5,
+    "source_id_map": {
+      "28960": "https://www.drmalpani.com/hotels",
+      "27025": "https://www.drmalpani.com/hotels",
+      "38508": "https://www.drmalpani.com/travel",
+      "29018": "https://www.drmalpani.com/resource/book/chapter30",
+      "35622": "https://www.drmalpani.com/travel",
+      "37548": "https://www.drmalpani.com/travel",
+      "27261": "https://www.drmalpani.com/knowledge-center/ivf/ivf-cost-in-mumbai-test-tube-baby-cost-in-mumbai",
+      "28865": "https://www.drmalpani.com/success-stories/ivf-success-stories-ray-of-hope-for-usa-couple",
+      "36699": "https://www.drmalpani.com/knowledge-center/articles/most-successful-ivf-centre-in-mumbai-india",
+      "36616": "https://www.drmalpani.com/knowledge-center/articles/test-tube-baby-treatment-cost-in-mumbai",
+      "31295": "https://www.drmalpani.com/knowledge-center/articles/what-you-need-to-know-about-ivf",
+      "37586": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+      "35674": "https://www.drmalpani.com/",
+      "28893": "https://beyondchatsnew.s3.ap-south-1.amazonaws.com/training_data/Tries, Sighs, and Lullabies  pages 1-240 (26 January 2023 absolute final)_090224_162039.pdf",
+      "28824": "https://beyondchatsnew.s3.ap-south-1.amazonaws.com/training_data/Tries, Sighs, and Lullabies  pages 1-240 (26 January 2023 absolute final)_090224_162039.pdf",
+      "27080": "https://www.drmalpani.com/knowledge-center/articles/a-free-simple-fun-effective-way-to-improve-your-fertility",
+      "37373": "https://www.drmalpani.com/knowledge-center/articles/ivf-cost-in-mumbai",
+      "25885": "https://www.drmalpani.com/knowledge-center/articles/is-coming-to-mumbai-safe-for-ivf-patients",
+      "25246": "https://www.drmalpani.com/knowledge-center/articles/why-ivf-isn-t-guaranteed-to-work-every-time",
+      "25292": "https://www.thebestmedicalcare.com/how-to-get-the-best-medical-care/informed-consent-a-crucial-factor.html",
+      "35639": "https://www.drmalpani.com/knowledge-center/articles/why-is-malpani-clinic-featured-in-the-media-toi3",
+      "33763": "https://www.drmalpani.com/knowledge-center/articles/the-best-ivf-center-in-mumbai",
+      "26978": "https://beyondchatsnew.s3.ap-south-1.amazonaws.com/training_data/Tries, Sighs, and Lullabies  pages 1-240 (26 January 2023 absolute final)_090224_162039.pdf",
+      "38572": 38572,
+      "27318": "https://beyondchatsnew.s3.ap-south-1.amazonaws.com/training_data/Tries, Sighs, and Lullabies  pages 1-240 (26 January 2023 absolute final)_090224_162039.pdf",
+      "36724": 36724,
+      "33384": "https://www.drmalpani.com/travel",
+      "37074": "https://www.drmalpani.com/knowledge-center/articles/price-vs-value-for-ivf-patients",
+      "33494": 33494,
+      "31256": 31256,
+      "35695": "https://www.drmalpani.com/knowledge-center/articles/ivf-patients-and-doctor-shopping",
+      "27254": "https://www.drmalpani.com/knowledge-center/articles/why-does-the-cost-of-test-tube-baby-treatment-in-india-vary-so-much",
+      "27217": "https://www.drmalpani.com/knowledge-center/articles/why-is-test-tube-baby-treatment-so-expensive",
+      "35873": 35873,
+      "35677": 35677
+    },
+    "requires_manual_review": [
+      {
+        "claim": "We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.4088563621044159,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/travel",
+            "snippet": "There's more information on hotels near the clinic at Click here !.",
+            "score": 0.4088563621044159
+          }
+        ],
+        "pair_index": 1
+      },
+      {
+        "claim": "What specific infertility challenges have you both been diagnosed with so far?",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.5293264389038086,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/knowledge-center/articles/why-ivf-isn-t-guaranteed-to-work-every-time",
+            "snippet": "Clinic vs bedroom - the dilemma before infertile couples IVF is much more costly - but it's also much more efficient ! And while it's true that treatment is expensive, a baby is priceless ! The important thing is to continue to have realistic expectations, so that no matter what the outcome , you have control over the process, and thus achieve peace of mind you did your best ! What more can a human being ask for ?",
+            "score": 0.5293264389038086
+          }
+        ],
+        "pair_index": 1
+      },
+      {
+        "claim": "I am an AI Nurse, assisting the clinic with your queries.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.3622228503227234,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/travel",
+            "snippet": "There's more information on hotels near the clinic at Click here !.",
+            "score": 0.3622228503227234
+          }
+        ],
+        "pair_index": 2
+      },
+      {
+        "claim": "Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM.",
+        "claim_type": "NUMERIC",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.44245854020118713,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/resource/book/chapter30",
+            "snippet": "Costs vary widely, and you should enquire how much it will be..",
+            "score": 0.44245854020118713
+          }
+        ],
+        "pair_index": 2
+      },
+      {
+        "claim": "Malpani himself conducts these one-on-one consultations.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.5310688018798828,
+        "top_evidence": [
+          {
+            "source": 38572,
+            "snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+            "score": 0.5310688018798828
+          }
+        ],
+        "pair_index": 2
+      },
+      {
+        "claim": "You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM.",
+        "claim_type": "NUMERIC",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.409166544675827,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/travel",
+            "snippet": "There's more information on hotels near the clinic at Click here !.",
+            "score": 0.409166544675827
+          }
+        ],
+        "pair_index": 2
+      },
+      {
+        "claim": "Yes, we can help with accommodation.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.4470368027687073,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/travel",
+            "snippet": "There's more information on hotels near the clinic at Click here !.",
+            "score": 0.4470368027687073
+          }
+        ],
+        "pair_index": 4
+      },
+      {
+        "claim": "You can also explore options through Airbnb.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.38000571727752686,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/travel",
+            "snippet": "There's more information on hotels near the clinic at Click here !.",
+            "score": 0.38000571727752686
+          }
+        ],
+        "pair_index": 4
+      },
+      {
+        "claim": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night.",
+        "claim_type": "NUMERIC",
+        "evidence_confidence": "weak",
+        "best_support_score": 0.3137470483779907,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/hotels",
+            "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+            "score": 0.3137470483779907
+          }
+        ],
+        "pair_index": 5
+      },
+      {
+        "claim": "Malpani.",
+        "claim_type": "ASSERTION",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.43835464119911194,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/",
+            "snippet": "What is address of Dr Malpani clinic?\nAddress: Malpani Infertility Clinic. 505, Jamuna Sagar, near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005",
+            "score": 0.43835464119911194
+          }
+        ],
+        "pair_index": 5
+      },
+      {
+        "claim": "For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+        "claim_type": "URL",
+        "evidence_confidence": "medium",
+        "best_support_score": 0.35376083850860596,
+        "top_evidence": [
+          {
+            "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+            "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+            "score": 0.35376083850860596
+          }
+        ],
+        "pair_index": 6
+      }
+    ]
+  },
+  "aggregates": {
+    "num_turns": 6,
+    "mean_relevance": 0.4564378410577774,
+    "mean_completeness": 0.1795855934533754,
+    "mean_hallucination_ratio": 0.0,
+    "total_input_tokens": 13668,
+    "total_output_tokens": 744,
+    "total_estimated_cost_usd": 0.45468
+  },
+  "turn_reports": [
+    {
+      "pair_index": 1,
+      "user_text_preview": "I and my wife are planning to come to India early next month. I am still trying to convince her that since I started with communicating with you eversince, I may be a good idea to come to you in an attempt to solve our infertility problems.",
+      "ai_text_preview": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems. We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible. We can coordinate preliminary tests in your hometown to minimize your time in Mumbai, often requiring only 10 to 20 days at our clinic for an entire IVF cycle. What specific infertility challenges have you both been diagnosed with so far? [](https://www.drmalpani.com/knowledge-center/articles/how-ivf-works-your-complete-guide)",
+      "relevance": 0.5237847566604614,
+      "completeness": 0.2621866009042335,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.7671669125556946,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment You can calculate exchange rates from your currency into Indian rupees at http://www.xe.com/.Here are some more tips for travellers to India !Over the last 13 years, we have treated patients from all over the world- USA, UK, Australia, Middle East , Kenya, Nigeria and Singapore. Our patients have been surprised and pleased at the convenience that our system offers them . In fact, many feel that it is easier to be treated at Malpani Infertility Clinic, than to take treatment in their own home city . In addition, taking off 10 to 14 days in a relaxed setting, where you can bond with your partner and with us can only help promote an optimal outcome. You can also fly down to see the Taj Mahal, or get an ayurvedic massage in Kerala to melt ",
+                "score": 0.7671669125556946
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment A return air ticket to India from the US costs about US $ 1000- 1500. Your husband can accompany you, or you can hand-carry his frozen sperm in a dry shipper (which you will need to borrow from your local infertility clinic) or in a dry-ice box packed with dry ice. The clinic is in the heart of south Bombay, and is an hour's ride away from the airport. IVF treatment is done on a day-care basis, so you do not need hospitalisation at all. There are many hotels nearby and we can help you arrange accommodation in close proximity to our clinic. You can check them here -  https://www.drmalpani.com/about-us/hotels-near-the-clinic . You only need to make 4 - 6 visits to the clinic during the entire cycle, and after the embryo transfer, you can",
+                "score": 0.6971648931503296
+              },
+              {
+                "source": 35873,
+                "snippet": "Do you have a clinic in gurgaon\nI'm sorry, we do not have clinic in Gurgaon.  Our clinic named Malpani Infertility Clinic is situated in Mumbai, India at Jamuna Sagar, SBS Road, Colaba .  The address is Mumbai 400 005, India .  Our contact number is 9867441589 , and patients can also reach us via WhatsApp at https://wa.me/919867441589/ [[1]](https://www.drmalpani.com/knowledge-center/articles/what-should-we-change-in-the-next-ivf-cycle).",
+                "score": 0.6559478044509888
+              }
+            ]
+          },
+          {
+            "claim": "We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.4088563621044159,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.4088563621044159
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+                "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+                "score": 0.39946043491363525
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/why-is-malpani-clinic-featured-in-the-media-toi3",
+                "snippet": "Soon, Stethoscopes, Not Sight-seeing, Could Bring Tourists To City Times of India, By Shabnam Minwalla A few months ago, Dr Niteen Dehia of Laser Eye Vision received an unusual request. A busload of Britishers, who were planning a trip to Goa, wanted to stop over in Mumbai to correct their vision through Lasik surgery. The doctor was happy to oblige, and is now preparing for the 15 bespectacled tourists who will be arriving in December. When Dr. Aniruddha Malpani decided to invest Rs 25 lakhs in equipment for Preimplantation Genetic Diagnosis - a technique used to rule out genetic disorders in the embryo- he knew that only the rich and desperate in India would come forward. But he suspected that international patients might be interested. The hunch paid off. Half the inquiries that Dr Malp",
+                "score": 0.3933337330818176
+              }
+            ]
+          },
+          {
+            "claim": "We can coordinate preliminary tests in your hometown to minimize your time in Mumbai, often requiring only 10 to 20 days at our clinic for an entire IVF cycle.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.7288140654563904,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/ivf/ivf-cost-in-mumbai-test-tube-baby-cost-in-mumbai",
+                "snippet": "IVF cost in Mumbai | Test tube baby cost in Mumbai With improved medical technology, impeccable credentials of fertility specialists, and medical staff, and the use of the latest technologies for the purpose of IVF treatments, it is no wonder that people from all over the world come to India for IVF. The treatment cycle itself takes about 2 to 4 weeks to complete, after which the woman must take a pregnancy test to see if the fertilized embryo has implanted or not.The success rates of IVF are very high in India, with some clinics boasting success rates as high as 65%, among women in the 21 to 30 age group. The younger the woman, the higher the chances of a successful IVF pregnancy. As the woman ages, there is a proportionate drop in success rates. However, the success rates offered by IVF ",
+                "score": 0.7288140654563904
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+                "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+                "score": 0.6768033504486084
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/is-coming-to-mumbai-safe-for-ivf-patients",
+                "snippet": "Is coming to Mumbai safe for IVF patients? Lots of out-of-Mumbai patients are reluctant to travel to Mumbai to our clinic for their IVF treatment, even though they know our IVF pregnancy rates are the best in the country. This is because they've been told all kinds of horror stories about IVF treatment. They have been misinformed that they need to visit the clinic everyday; that they need daily ultrasound scans; that they require injections on a daily basis which need to be given at the clinic; they need bed rest after the transfer; and that travel after the embryo transfer is unsafe. They are also warned that IVF pregnancies need special care, and this can only be provided locally, which is why they are scared to come to Mumbai. However, none of this is true at all. These are just myths w",
+                "score": 0.6746834516525269
+              }
+            ]
+          },
+          {
+            "claim": "What specific infertility challenges have you both been diagnosed with so far?",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.5293264389038086,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/why-ivf-isn-t-guaranteed-to-work-every-time",
+                "snippet": "Clinic vs bedroom - the dilemma before infertile couples IVF is much more costly - but it's also much more efficient ! And while it's true that treatment is expensive, a baby is priceless ! The important thing is to continue to have realistic expectations, so that no matter what the outcome , you have control over the process, and thus achieve peace of mind you did your best ! What more can a human being ask for ?",
+                "score": 0.5293264389038086
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+                "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+                "score": 0.47602003812789917
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/ivf/ivf-cost-in-mumbai-test-tube-baby-cost-in-mumbai",
+                "snippet": "IVF cost in Mumbai | Test tube baby cost in Mumbai With improved medical technology, impeccable credentials of fertility specialists, and medical staff, and the use of the latest technologies for the purpose of IVF treatments, it is no wonder that people from all over the world come to India for IVF. The treatment cycle itself takes about 2 to 4 weeks to complete, after which the woman must take a pregnancy test to see if the fertilized embryo has implanted or not.The success rates of IVF are very high in India, with some clinics boasting success rates as high as 65%, among women in the 21 to 30 age group. The younger the woman, the higher the chances of a successful IVF pregnancy. As the woman ages, there is a proportionate drop in success rates. However, the success rates offered by IVF ",
+                "score": 0.46374374628067017
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 4
+      },
+      "latency_seconds": 0.010107,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2312,
+        "output_tokens": 149
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2312
+      },
+      "estimated_cost_usd": 0.0783,
+      "estimated_cost_usd_topk": 0.0783,
+      "ai_meta": {
+        "turn": 6,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems. We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible. We can coordinate preliminary tests in your hometown to minimize your time in Mumbai, often requiring only 10 to 20 days at our clinic for an entire IVF cycle. What specific infertility challenges have you both been diagnosed with so far? [](https://www.drmalpani.com/knowledge-center/articles/how-ivf-works-your-complete-guide)",
+        "created_at": "2025-11-16T17:07:10.000000Z"
+      },
+      "requires_manual_review": [
+        {
+          "claim": "We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.4088563621044159,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/travel",
+              "snippet": "There's more information on hotels near the clinic at Click here !.",
+              "score": 0.4088563621044159
+            }
+          ],
+          "pair_index": 1
+        },
+        {
+          "claim": "What specific infertility challenges have you both been diagnosed with so far?",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.5293264389038086,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/knowledge-center/articles/why-ivf-isn-t-guaranteed-to-work-every-time",
+              "snippet": "Clinic vs bedroom - the dilemma before infertile couples IVF is much more costly - but it's also much more efficient ! And while it's true that treatment is expensive, a baby is priceless ! The important thing is to continue to have realistic expectations, so that no matter what the outcome , you have control over the process, and thus achieve peace of mind you did your best ! What more can a human being ask for ?",
+              "score": 0.5293264389038086
+            }
+          ],
+          "pair_index": 1
+        }
+      ]
+    },
+    {
+      "pair_index": 2,
+      "user_text_preview": "So I am talking to Dr. Malpani himself if not how can I talk to he himself?",
+      "ai_text_preview": "I am an AI Nurse, assisting the clinic with your queries. To speak directly with Dr. Malpani for a personalized consultation, you can book an [online consultation via Zoom](https://pages.razorpay.com/ivfconsultation). Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM. Dr. Malpani himself conducts these one-on-one consultations. You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM. [](https://www.drmalpani.com/knowledge-center/articles/what-can-we-differently-in-the-next-ivf-cycle)...",
+      "relevance": 0.49156156182289124,
+      "completeness": 0.1401159725882973,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "I am an AI Nurse, assisting the clinic with your queries.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.3622228503227234,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.3622228503227234
+              },
+              {
+                "source": 33494,
+                "snippet": "What are the different price plans available?\nAt Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment. You can also opt for an online consultation by paying on the website: [Website URL](https://rzp.io/l/ivf-online-consultation)",
+                "score": 0.26551035046577454
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+                "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+                "score": 0.2494286447763443
+              }
+            ]
+          },
+          {
+            "claim": "Malpani for a personalized consultation, you can book an [online consultation via Zoom](https://pages.razorpay.com/ivfconsultation).",
+            "claim_type": "URL",
+            "best_support_score": 0.7246885299682617,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": 31256,
+                "snippet": "How can I book a Zoom consultation with Dr Malpani\nA Zoom consultation lasts for 30 min and costs Rs 3000.\nYou can book this online. Read more at https://www.drmalpani.com/amp/contact-us",
+                "score": 0.7246885299682617
+              },
+              {
+                "source": 33494,
+                "snippet": "What are the different price plans available?\nAt Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment. You can also opt for an online consultation by paying on the website: [Website URL](https://rzp.io/l/ivf-online-consultation)",
+                "score": 0.6661297082901001
+              },
+              {
+                "source": 35677,
+                "snippet": "How much is fees for doctor At Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment.",
+                "score": 0.5825428366661072
+              }
+            ]
+          },
+          {
+            "claim": "Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.44245854020118713,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/resource/book/chapter30",
+                "snippet": "Costs vary widely, and you should enquire how much it will be..",
+                "score": 0.44245854020118713
+              },
+              {
+                "source": 35677,
+                "snippet": "How much is fees for doctor At Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment.",
+                "score": 0.3606413006782532
+              },
+              {
+                "source": 38572,
+                "snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+                "score": 0.3530336618423462
+              }
+            ]
+          },
+          {
+            "claim": "Malpani himself conducts these one-on-one consultations.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.5310688018798828,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": 38572,
+                "snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+                "score": 0.5310688018798828
+              },
+              {
+                "source": 31256,
+                "snippet": "How can I book a Zoom consultation with Dr Malpani\nA Zoom consultation lasts for 30 min and costs Rs 3000.\nYou can book this online. Read more at https://www.drmalpani.com/amp/contact-us",
+                "score": 0.5129513740539551
+              },
+              {
+                "source": 35677,
+                "snippet": "How much is fees for doctor At Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment.",
+                "score": 0.5122608542442322
+              }
+            ]
+          },
+          {
+            "claim": "You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.409166544675827,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.409166544675827
+              },
+              {
+                "source": 33494,
+                "snippet": "What are the different price plans available?\nAt Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment. You can also opt for an online consultation by paying on the website: [Website URL](https://rzp.io/l/ivf-online-consultation)",
+                "score": 0.3402738571166992
+              },
+              {
+                "source": 35677,
+                "snippet": "How much is fees for doctor At Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment.",
+                "score": 0.3312304615974426
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 5
+      },
+      "latency_seconds": 0.010075,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2271,
+        "output_tokens": 144
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2271
+      },
+      "estimated_cost_usd": 0.07676999999999999,
+      "estimated_cost_usd_topk": 0.07676999999999999,
+      "ai_meta": {
+        "turn": 8,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "I am an AI Nurse, assisting the clinic with your queries. To speak directly with Dr. Malpani for a personalized consultation, you can book an [online consultation via Zoom](https://pages.razorpay.com/ivfconsultation). Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM. Dr. Malpani himself conducts these one-on-one consultations. You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM. [](https://www.drmalpani.com/knowledge-center/articles/what-can-we-differently-in-the-next-ivf-cycle)...",
+        "created_at": "2025-11-16T17:09:39.000000Z"
+      },
+      "requires_manual_review": [
+        {
+          "claim": "I am an AI Nurse, assisting the clinic with your queries.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.3622228503227234,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/travel",
+              "snippet": "There's more information on hotels near the clinic at Click here !.",
+              "score": 0.3622228503227234
+            }
+          ],
+          "pair_index": 2
+        },
+        {
+          "claim": "Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM.",
+          "claim_type": "NUMERIC",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.44245854020118713,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/resource/book/chapter30",
+              "snippet": "Costs vary widely, and you should enquire how much it will be..",
+              "score": 0.44245854020118713
+            }
+          ],
+          "pair_index": 2
+        },
+        {
+          "claim": "Malpani himself conducts these one-on-one consultations.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.5310688018798828,
+          "top_evidence": [
+            {
+              "source": 38572,
+              "snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+              "score": 0.5310688018798828
+            }
+          ],
+          "pair_index": 2
+        },
+        {
+          "claim": "You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM.",
+          "claim_type": "NUMERIC",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.409166544675827,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/travel",
+              "snippet": "There's more information on hotels near the clinic at Click here !.",
+              "score": 0.409166544675827
+            }
+          ],
+          "pair_index": 2
+        }
+      ]
+    },
+    {
+      "pair_index": 3,
+      "user_text_preview": "OK that's good. Please give me the mailing address for the clinic.",
+      "ai_text_preview": "The mailing address for Malpani Infertility Clinic is: 505, Jamuna Sagar, Near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005, India. [](https://www.drmalpani.com/)[](https://www.drmalpani.com/contact-us)",
+      "relevance": 0.49221745133399963,
+      "completeness": 0.23685636856368564,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "The mailing address for Malpani Infertility Clinic is: 505, Jamuna Sagar, Near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005, India.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.9095677137374878,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/",
+                "snippet": "What is address of Dr Malpani clinic?\nAddress: Malpani Infertility Clinic. 505, Jamuna Sagar, near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005",
+                "score": 0.9095677137374878
+              },
+              {
+                "source": 35873,
+                "snippet": "Do you have a clinic in gurgaon\nI'm sorry, we do not have clinic in Gurgaon.  Our clinic named Malpani Infertility Clinic is situated in Mumbai, India at Jamuna Sagar, SBS Road, Colaba .  The address is Mumbai 400 005, India .  Our contact number is 9867441589 , and patients can also reach us via WhatsApp at https://wa.me/919867441589/ [[1]](https://www.drmalpani.com/knowledge-center/articles/what-should-we-change-in-the-next-ivf-cycle).",
+                "score": 0.700641930103302
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.6669930219650269
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 1
+      },
+      "latency_seconds": 0.010541,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2269,
+        "output_tokens": 56
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2269
+      },
+      "estimated_cost_usd": 0.07143000000000001,
+      "estimated_cost_usd_topk": 0.07143000000000001,
+      "ai_meta": {
+        "turn": 10,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "The mailing address for Malpani Infertility Clinic is: 505, Jamuna Sagar, Near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005, India. [](https://www.drmalpani.com/)[](https://www.drmalpani.com/contact-us)",
+        "created_at": "2025-11-16T17:10:55.000000Z"
+      },
+      "requires_manual_review": []
+    },
+    {
+      "pair_index": 4,
+      "user_text_preview": "when we get there is it possible that you guys can make arrangements for accomodation or is that an option you can provide?",
+      "ai_text_preview": "Yes, we can help with accommodation. We have tie-ups with places like Gopal Mansion (www.gopalmansion.com), which offers affordable rooms for patients. There are also other hotels nearby, such as Hotel President and Hotel Supreme, some of which offer special packages for our patients, including breakfast and airport transfers. You can also explore options through Airbnb. [](https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic)...",
+      "relevance": 0.4522934556007385,
+      "completeness": 0.12851782363977488,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "Yes, we can help with accommodation.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.4470368027687073,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.4470368027687073
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic We are fairly close to VT Station and Churchgate Railway Station (about 15 minutes by taxi). We are in Colaba, the heart of tourist Bombay !Your best choice would be Gopal Mansion. Their website is www.gopalmansion.com.This is a building with 50 rooms, about 30 min away from the clinic, which is run exclusively for patients and their relatives. An airconditioned room with TV and bath is only Rs 800 per night , and is run as a charitable service by the famous philanthropist, Mr R K Damani.You need to send an email in advance to book your room, as they are very busy, and the rooms are in high demand.You will need the following\u00b7 Reference Letter from us\u00b7 Your medical documents \u00b7 Valid passport id proof (Address proof for patients living in India, such as",
+                "score": 0.3678658604621887
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.3533880114555359
+              }
+            ]
+          },
+          {
+            "claim": "We have tie-ups with places like Gopal Mansion (www.gopalmansion.com), which offers affordable rooms for patients.",
+            "claim_type": "URL",
+            "best_support_score": 0.594212532043457,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.594212532043457
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic We are fairly close to VT Station and Churchgate Railway Station (about 15 minutes by taxi). We are in Colaba, the heart of tourist Bombay !Your best choice would be Gopal Mansion. Their website is www.gopalmansion.com.This is a building with 50 rooms, about 30 min away from the clinic, which is run exclusively for patients and their relatives. An airconditioned room with TV and bath is only Rs 800 per night , and is run as a charitable service by the famous philanthropist, Mr R K Damani.You need to send an email in advance to book your room, as they are very busy, and the rooms are in high demand.You will need the following\u00b7 Reference Letter from us\u00b7 Your medical documents \u00b7 Valid passport id proof (Address proof for patients living in India, such as",
+                "score": 0.4440307915210724
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.39623862504959106
+              }
+            ]
+          },
+          {
+            "claim": "There are also other hotels nearby, such as Hotel President and Hotel Supreme, some of which offer special packages for our patients, including breakfast and airport transfers.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.6097078919410706,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.6097078919410706
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic We are fairly close to VT Station and Churchgate Railway Station (about 15 minutes by taxi). We are in Colaba, the heart of tourist Bombay !Your best choice would be Gopal Mansion. Their website is www.gopalmansion.com.This is a building with 50 rooms, about 30 min away from the clinic, which is run exclusively for patients and their relatives. An airconditioned room with TV and bath is only Rs 800 per night , and is run as a charitable service by the famous philanthropist, Mr R K Damani.You need to send an email in advance to book your room, as they are very busy, and the rooms are in high demand.You will need the following\u00b7 Reference Letter from us\u00b7 Your medical documents \u00b7 Valid passport id proof (Address proof for patients living in India, such as",
+                "score": 0.4261619746685028
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.3919837176799774
+              }
+            ]
+          },
+          {
+            "claim": "You can also explore options through Airbnb.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.38000571727752686,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.38000571727752686
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.2560018301010132
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment A return air ticket to India from the US costs about US $ 1000- 1500. Your husband can accompany you, or you can hand-carry his frozen sperm in a dry shipper (which you will need to borrow from your local infertility clinic) or in a dry-ice box packed with dry ice. The clinic is in the heart of south Bombay, and is an hour's ride away from the airport. IVF treatment is done on a day-care basis, so you do not need hospitalisation at all. There are many hotels nearby and we can help you arrange accommodation in close proximity to our clinic. You can check them here -  https://www.drmalpani.com/about-us/hotels-near-the-clinic . You only need to make 4 - 6 visits to the clinic during the entire cycle, and after the embryo transfer, you can",
+                "score": 0.22605803608894348
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 4
+      },
+      "latency_seconds": 0.010164,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2283,
+        "output_tokens": 126
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2283
+      },
+      "estimated_cost_usd": 0.07604999999999999,
+      "estimated_cost_usd_topk": 0.07604999999999999,
+      "ai_meta": {
+        "turn": 12,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "Yes, we can help with accommodation. We have tie-ups with places like Gopal Mansion (www.gopalmansion.com), which offers affordable rooms for patients. There are also other hotels nearby, such as Hotel President and Hotel Supreme, some of which offer special packages for our patients, including breakfast and airport transfers. You can also explore options through Airbnb. [](https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic)...",
+        "created_at": "2025-11-16T20:27:57.000000Z"
+      },
+      "requires_manual_review": [
+        {
+          "claim": "Yes, we can help with accommodation.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.4470368027687073,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/travel",
+              "snippet": "There's more information on hotels near the clinic at Click here !.",
+              "score": 0.4470368027687073
+            }
+          ],
+          "pair_index": 4
+        },
+        {
+          "claim": "You can also explore options through Airbnb.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.38000571727752686,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/travel",
+              "snippet": "There's more information on hotels near the clinic at Click here !.",
+              "score": 0.38000571727752686
+            }
+          ],
+          "pair_index": 4
+        }
+      ]
+    },
+    {
+      "pair_index": 5,
+      "user_text_preview": "Do you have an idea how much thier rooms cost per night?",
+      "ai_text_preview": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. **We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast.** Happy Home Hotel, which is a 5-minute walk from our clinic, offers single rooms for Rs 1400 and double rooms for Rs 2000. To discuss your specific needs and coordinate your visit, you can [book a consultation call](https://pages.razorpay.com/ivfconsultation) with Dr. Malpani.",
+      "relevance": 0.37651652097702026,
+      "completeness": 0.15113032736256948,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.3137470483779907,
+            "evidence_confidence": "weak",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.3137470483779907
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic We are fairly close to VT Station and Churchgate Railway Station (about 15 minutes by taxi). We are in Colaba, the heart of tourist Bombay !Your best choice would be Gopal Mansion. Their website is www.gopalmansion.com.This is a building with 50 rooms, about 30 min away from the clinic, which is run exclusively for patients and their relatives. An airconditioned room with TV and bath is only Rs 800 per night , and is run as a charitable service by the famous philanthropist, Mr R K Damani.You need to send an email in advance to book your room, as they are very busy, and the rooms are in high demand.You will need the following\u00b7 Reference Letter from us\u00b7 Your medical documents \u00b7 Valid passport id proof (Address proof for patients living in India, such as",
+                "score": 0.3131548762321472
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.3083038330078125
+              }
+            ]
+          },
+          {
+            "claim": "**We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast.** Happy Home Hotel, which is a 5-minute walk from our clinic, offers single rooms for Rs 1400 and double rooms for Rs 2000.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.579820454120636,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "There's more information on hotels near the clinic at Click here !.",
+                "score": 0.579820454120636
+              },
+              {
+                "source": "https://www.drmalpani.com/hotels",
+                "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+                "score": 0.5255275964736938
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment A return air ticket to India from the US costs about US $ 1000- 1500. Your husband can accompany you, or you can hand-carry his frozen sperm in a dry shipper (which you will need to borrow from your local infertility clinic) or in a dry-ice box packed with dry ice. The clinic is in the heart of south Bombay, and is an hour's ride away from the airport. IVF treatment is done on a day-care basis, so you do not need hospitalisation at all. There are many hotels nearby and we can help you arrange accommodation in close proximity to our clinic. You can check them here -  https://www.drmalpani.com/about-us/hotels-near-the-clinic . You only need to make 4 - 6 visits to the clinic during the entire cycle, and after the embryo transfer, you can",
+                "score": 0.44893816113471985
+              }
+            ]
+          },
+          {
+            "claim": "Malpani.",
+            "claim_type": "ASSERTION",
+            "best_support_score": 0.43835464119911194,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/",
+                "snippet": "What is address of Dr Malpani clinic?\nAddress: Malpani Infertility Clinic. 505, Jamuna Sagar, near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005",
+                "score": 0.43835464119911194
+              },
+              {
+                "source": "https://beyondchatsnew.s3.ap-south-1.amazonaws.com/training_data/Tries, Sighs, and Lullabies  pages 1-240 (26 January 2023 absolute final)_090224_162039.pdf",
+                "snippet": "another three days on the train to reach Mumbai.  When we reached the station, I realised that I had lost the address and phone number of your clinic.  I had absolutely no clue what to do and had lost all hope.  It was my sheer luck that I met a taxi driver outside the station.  I happened to ask him if he knew how to reach the Malpani clinic.  He nodded and told us that he knew where it is as he had taken many people from the station to the clinic.  He then told us which bus would get us here.  It was a sign from God, \u2019 he said with a",
+                "score": 0.42739972472190857
+              },
+              {
+                "source": 38572,
+                "snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+                "score": 0.42187756299972534
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 3
+      },
+      "latency_seconds": 0.010103,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2266,
+        "output_tokens": 134
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2266
+      },
+      "estimated_cost_usd": 0.07602,
+      "estimated_cost_usd_topk": 0.07602,
+      "ai_meta": {
+        "turn": 14,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. **We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast.** Happy Home Hotel, which is a 5-minute walk from our clinic, offers single rooms for Rs 1400 and double rooms for Rs 2000. To discuss your specific needs and coordinate your visit, you can [book a consultation call](https://pages.razorpay.com/ivfconsultation) with Dr. Malpani.",
+        "created_at": "2025-11-16T20:42:16.000000Z",
+        "evaluation_note": "Hallucination/Factual Error: The bolded section regarding 'subsidized rooms at our clinic' is explicitly noted as incorrect in the review data (see below)."
+      },
+      "requires_manual_review": [
+        {
+          "claim": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night.",
+          "claim_type": "NUMERIC",
+          "evidence_confidence": "weak",
+          "best_support_score": 0.3137470483779907,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/hotels",
+              "snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin Showroom,Colaba, Mumbai - 4000005A/C RoomAttached BathroomFood service Room Charges 1400/- Single Room2000/- Double Room. This is a 5 min walk away from the clinic.Tel: 91-22-22186072Hotel Fortune www.hotelfortune.inHotel Manama www.hotelmanama.comHotel ApolloNear Regal CinemaWebsite: http://www.mumbainet.com/hotels/godwin/Hotel GodwinNear Electric House, ColabaWebsite: http://www.mumbainet.com/hotels/godwin/info@hotelcausewayindia.comWebsite: http://www.hotelcausewayindia.comHotel Fariyas, ColabaYou can find more ",
+              "score": 0.3137470483779907
+            }
+          ],
+          "pair_index": 5
+        },
+        {
+          "claim": "Malpani.",
+          "claim_type": "ASSERTION",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.43835464119911194,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/",
+              "snippet": "What is address of Dr Malpani clinic?\nAddress: Malpani Infertility Clinic. 505, Jamuna Sagar, near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005",
+              "score": 0.43835464119911194
+            }
+          ],
+          "pair_index": 5
+        }
+      ]
+    },
+    {
+      "pair_index": 6,
+      "user_text_preview": "what is the cost of one circle of IVF/ICSI at your facility?",
+      "ai_text_preview": "A complete [IVF](https://www.drmalpani.com/knowledge-center/articles/what-you-need-to-know-about-ivf) cycle at our clinic, including [ICSI](https://www.drmalpani.com/knowledge-center/articles/icsi-comprehensive-affordable-icsi-services) and a blastocyst transfer, costs approximately Rs 3,00,000. Medications would typically cost about Rs 1,45,000 more, and embryo freezing and storage are additional. For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+      "relevance": 0.40225329995155334,
+      "completeness": 0.15870646766169155,
+      "hallucination": {
+        "claims": [
+          {
+            "claim": "A complete [IVF](https://www.drmalpani.com/knowledge-center/articles/what-you-need-to-know-about-ivf) cycle at our clinic, including [ICSI](https://www.drmalpani.com/knowledge-center/articles/icsi-comprehensive-affordable-icsi-services) and a blastocyst transfer, costs approximately Rs 3,00,000.",
+            "claim_type": "URL",
+            "best_support_score": 0.7619374990463257,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment You can calculate exchange rates from your currency into Indian rupees at http://www.xe.com/.Here are some more tips for travellers to India !Over the last 13 years, we have treated patients from all over the world- USA, UK, Australia, Middle East , Kenya, Nigeria and Singapore. Our patients have been surprised and pleased at the convenience that our system offers them . In fact, many feel that it is easier to be treated at Malpani Infertility Clinic, than to take treatment in their own home city . In addition, taking off 10 to 14 days in a relaxed setting, where you can bond with your partner and with us can only help promote an optimal outcome. You can also fly down to see the Taj Mahal, or get an ayurvedic massage in Kerala to melt ",
+                "score": 0.7619374990463257
+              },
+              {
+                "source": 36724,
+                "snippet": "What is the Cost for IVF?\nA complete IVF cycle at our clinic costs about Rs 3,00,000 - and this is all-inclusive for all medical procedures. Medicines would cost about Rs  145000 more.\n\n Included services in our IVF cost:\n\n    Ovarian stimulation monitoring\n\n    Anesthesia for egg retrieval\n\n    Egg retrieval procedure\n\n    Fertilization and culture of the eggs\n\n   All physician, IVF lab, and facility fees associated with in vitro fertilization\n\nThere is NO extra cost for doing ICSI or a blastocyst transfer !\n\nExcluded services - not included in our IVF costs:\n\n    Pre-IVF screening tests \n\n   Blood tests ( such as E2 levels)\n\n    Embryo or sperm freezing or storage - these are optional services\n\nThe cost for freezing and storing embryos is Rs 70000 per year\n\nThe cost for thawing and trans",
+                "score": 0.7376828193664551
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment A return air ticket to India from the US costs about US $ 1000- 1500. Your husband can accompany you, or you can hand-carry his frozen sperm in a dry shipper (which you will need to borrow from your local infertility clinic) or in a dry-ice box packed with dry ice. The clinic is in the heart of south Bombay, and is an hour's ride away from the airport. IVF treatment is done on a day-care basis, so you do not need hospitalisation at all. There are many hotels nearby and we can help you arrange accommodation in close proximity to our clinic. You can check them here -  https://www.drmalpani.com/about-us/hotels-near-the-clinic . You only need to make 4 - 6 visits to the clinic during the entire cycle, and after the embryo transfer, you can",
+                "score": 0.6785085201263428
+              }
+            ]
+          },
+          {
+            "claim": "Medications would typically cost about Rs 1,45,000 more, and embryo freezing and storage are additional.",
+            "claim_type": "NUMERIC",
+            "best_support_score": 0.7151856422424316,
+            "evidence_confidence": "strong",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": 36724,
+                "snippet": "What is the Cost for IVF?\nA complete IVF cycle at our clinic costs about Rs 3,00,000 - and this is all-inclusive for all medical procedures. Medicines would cost about Rs  145000 more.\n\n Included services in our IVF cost:\n\n    Ovarian stimulation monitoring\n\n    Anesthesia for egg retrieval\n\n    Egg retrieval procedure\n\n    Fertilization and culture of the eggs\n\n   All physician, IVF lab, and facility fees associated with in vitro fertilization\n\nThere is NO extra cost for doing ICSI or a blastocyst transfer !\n\nExcluded services - not included in our IVF costs:\n\n    Pre-IVF screening tests \n\n   Blood tests ( such as E2 levels)\n\n    Embryo or sperm freezing or storage - these are optional services\n\nThe cost for freezing and storing embryos is Rs 70000 per year\n\nThe cost for thawing and trans",
+                "score": 0.7151856422424316
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/ivf-patients-and-doctor-shopping",
+                "snippet": "IVF patients and doctor shopping Many IVF patients doctor-shop, but you need to understand the difference between cost , price and value so you can do this intelligently. IVF patients are often very confused about the costs of an IVF cycle. Obviously , they want to save money , and they read all these full page ads, which talk about how an IVF cycle costs only Rs 25000 ! They are happy to sign up , because that's an amount they can afford. However, they actually start the treatment, they end up spending more like Rs 200000, because the doctors keep on upselling them ! Sadly, IVF clinics aren't usually honest or transparent about the charges. They advertise a particular cost, but the final price which the patient ends up paying is a lot more , because there are all kinds of add- ons. This i",
+                "score": 0.558512270450592
+              },
+              {
+                "source": "https://www.drmalpani.com/travel",
+                "snippet": "Coming to Malpani Infertility Clinic for IVF treatment A return air ticket to India from the US costs about US $ 1000- 1500. Your husband can accompany you, or you can hand-carry his frozen sperm in a dry shipper (which you will need to borrow from your local infertility clinic) or in a dry-ice box packed with dry ice. The clinic is in the heart of south Bombay, and is an hour's ride away from the airport. IVF treatment is done on a day-care basis, so you do not need hospitalisation at all. There are many hotels nearby and we can help you arrange accommodation in close proximity to our clinic. You can check them here -  https://www.drmalpani.com/about-us/hotels-near-the-clinic . You only need to make 4 - 6 visits to the clinic during the entire cycle, and after the embryo transfer, you can",
+                "score": 0.541642427444458
+              }
+            ]
+          },
+          {
+            "claim": "For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+            "claim_type": "URL",
+            "best_support_score": 0.35376083850860596,
+            "evidence_confidence": "medium",
+            "is_hallucination": false,
+            "evidence": [
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+                "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+                "score": 0.35376083850860596
+              },
+              {
+                "source": 33494,
+                "snippet": "What are the different price plans available?\nAt Dr. Malpani's clinic, there is a consultation call with Dr. Malpani available for Rs. 3000/- for a 30-minute zoom appointment. You can also opt for an online consultation by paying on the website: [Website URL](https://rzp.io/l/ivf-online-consultation)",
+                "score": 0.33348366618156433
+              },
+              {
+                "source": "https://www.drmalpani.com/knowledge-center/articles/price-vs-value-for-ivf-patients",
+                "snippet": "Price vs Value for IVF patients Most IVF patients want the cheapest possible IVF treatment. They naively assume that all IVF doctors are equally good, and that success rates are high in all IVF clinics. They are basically looking for a bargain, which is why they go doctor-shopping , and hunt for the cheapest IVF clinic. Doctors are smart, and manyIVF clinics take advantage of this bargain hunting mentality of ignorant patients, who cant look beyond the price. They buy full page ads, and sponsored slots on TV talk shows. Their focus is on highlighting how affordable and cheap they are. They also offer all kinds of bargains and discounts to pure patient in, because they know that once the patient has started a treatment cycle, they cannot back out and are trapped. Please remember that someon",
+                "score": 0.31758737564086914
+              }
+            ]
+          }
+        ],
+        "hallucination_ratio": 0.0,
+        "num_claims": 3
+      },
+      "latency_seconds": 0.010502,
+      "token_estimates": {
+        "input_tokens_all_contexts": 2267,
+        "output_tokens": 135
+      },
+      "token_estimates_topk": {
+        "input_tokens_topk": 2267
+      },
+      "estimated_cost_usd": 0.07611,
+      "estimated_cost_usd_topk": 0.07611,
+      "ai_meta": {
+        "turn": 18,
+        "sender_id": 1,
+        "role": "AI/Chatbot",
+        "message": "A complete [IVF](https://www.drmalpani.com/knowledge-center/articles/what-you-need-to-know-about-ivf) cycle at our clinic, including [ICSI](https://www.drmalpani.com/knowledge-center/articles/icsi-comprehensive-affordable-icsi-services) and a blastocyst transfer, costs approximately Rs 3,00,000. Medications would typically cost about Rs 1,45,000 more, and embryo freezing and storage are additional. For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+        "created_at": "2025-11-16T22:23:26.000000Z"
+      },
+      "requires_manual_review": [
+        {
+          "claim": "For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+          "claim_type": "URL",
+          "evidence_confidence": "medium",
+          "best_support_score": 0.35376083850860596,
+          "top_evidence": [
+            {
+              "source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic",
+              "snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with a high touch, and this combination allows them to maximize their chance of getting pregnant. This blend of competence with compassion is rare, which is why many patients who have failed an IVF cycle and are finally able to differentiate between a good clinic and a bad clinic, seek us out. We create a lot of educational materials to educate IVF patients, and we share this for free online, Patients appreciate our openness and transparency because this helps them to have realistic expectations of IVF treatment.Many pa",
+              "score": 0.35376083850860596
+            }
+          ],
+          "pair_index": 6
+        }
+      ]
+    }
+  ]
+}

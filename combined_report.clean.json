@@ -1,0 +1,197 @@
+{
+  "generated_at": "2025-12-12T16:38:56.655720Z",
+  "conversation_summary": {
+    "num_turns_in_conversation": 13,
+    "num_pairs_evaluated": 6
+  },
+  "summary": {
+    "mean_relevance": 0.456,
+    "mean_completeness": 0.18,
+    "mean_hallucination_ratio": 0.0,
+    "evaluated_responses": 6
+  },
+  "per_turn_scores": [
+    {
+      "pair_index": 1,
+      "turn_id": 6,
+      "user_preview": "I and my wife are planning to come to India early next month. I am still trying to convince her that since I started with communicating with you eversince, I may be a good idea to come to you in an at",
+      "ai_preview": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems. We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible. We can coordinate preliminary ",
+      "relevance": 0.524,
+      "completeness": 0.262,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": true
+    },
+    {
+      "pair_index": 2,
+      "turn_id": 8,
+      "user_preview": "So I am talking to Dr. Malpani himself if not how can I talk to he himself?",
+      "ai_preview": "I am an AI Nurse, assisting the clinic with your queries. To speak directly with Dr. Malpani for a personalized consultation, you can book an [online consultation via Zoom](https://pages.razorpay.com/ivfconsultation). Each 30-minute session costs ₹3,000 and is available from Monday to Saturday betwe",
+      "relevance": 0.492,
+      "completeness": 0.14,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": true
+    },
+    {
+      "pair_index": 3,
+      "turn_id": 10,
+      "user_preview": "OK that's good. Please give me the mailing address for the clinic.",
+      "ai_preview": "The mailing address for Malpani Infertility Clinic is: 505, Jamuna Sagar, Near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005, India. [](https://www.drmalpani.com/)[](https://www.drmalpani.com/contact-us)",
+      "relevance": 0.492,
+      "completeness": 0.237,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": false
+    },
+    {
+      "pair_index": 4,
+      "turn_id": 12,
+      "user_preview": "when we get there is it possible that you guys can make arrangements for accomodation or is that an option you can provide?",
+      "ai_preview": "Yes, we can help with accommodation. We have tie-ups with places like Gopal Mansion (www.gopalmansion.com), which offers affordable rooms for patients. There are also other hotels nearby, such as Hotel President and Hotel Supreme, some of which offer special packages for our patients, including brea",
+      "relevance": 0.452,
+      "completeness": 0.129,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": true
+    },
+    {
+      "pair_index": 5,
+      "turn_id": 14,
+      "user_preview": "Do you have an idea how much thier rooms cost per night?",
+      "ai_preview": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. **We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast.** Happy Home Hotel, which is a 5-minute",
+      "relevance": 0.377,
+      "completeness": 0.151,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": true
+    },
+    {
+      "pair_index": 6,
+      "turn_id": 18,
+      "user_preview": "what is the cost of one circle of IVF/ICSI at your facility?",
+      "ai_preview": "A complete [IVF](https://www.drmalpani.com/knowledge-center/articles/what-you-need-to-know-about-ivf) cycle at our clinic, including [ICSI](https://www.drmalpani.com/knowledge-center/articles/icsi-comprehensive-affordable-icsi-services) and a blastocyst transfer, costs approximately Rs 3,00,000. Med",
+      "relevance": 0.402,
+      "completeness": 0.159,
+      "hallucination_ratio": 0.0,
+      "requires_manual_review": true
+    }
+  ],
+  "hallucination_findings": [
+    {
+      "pair_index": 1,
+      "turn_id": 6,
+      "claim": "We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.4088563621044159,
+      "top_evidence_snippet": "There's more information on hotels near the clinic at Click here !.",
+      "top_evidence_source": "https://www.drmalpani.com/travel"
+    },
+    {
+      "pair_index": 1,
+      "turn_id": 6,
+      "claim": "What specific infertility challenges have you both been diagnosed with so far?",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.5293264389038086,
+      "top_evidence_snippet": "Clinic vs bedroom - the dilemma before infertile couples IVF is much more costly - but it's also much more efficient ! And while it's true that treatment is expensive, a baby is priceless ! The important thing is to continue to have realistic expectations, so that no matter what ",
+      "top_evidence_source": "https://www.drmalpani.com/knowledge-center/articles/why-ivf-isn-t-guaranteed-to-work-every-time"
+    },
+    {
+      "pair_index": 2,
+      "turn_id": 8,
+      "claim": "I am an AI Nurse, assisting the clinic with your queries.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.3622228503227234,
+      "top_evidence_snippet": "There's more information on hotels near the clinic at Click here !.",
+      "top_evidence_source": "https://www.drmalpani.com/travel"
+    },
+    {
+      "pair_index": 2,
+      "turn_id": 8,
+      "claim": "Each 30-minute session costs ₹3,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM.",
+      "claim_type": "NUMERIC",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.44245854020118713,
+      "top_evidence_snippet": "Costs vary widely, and you should enquire how much it will be..",
+      "top_evidence_source": "https://www.drmalpani.com/resource/book/chapter30"
+    },
+    {
+      "pair_index": 2,
+      "turn_id": 8,
+      "claim": "Malpani himself conducts these one-on-one consultations.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.5310688018798828,
+      "top_evidence_snippet": "Book a second opinion\n\nFor a Personalized, Convenient and Flexible second-opinion you can book a 30min consultation call with Dr. Malpani, which costs you 3000 rupees.",
+      "top_evidence_source": 38572
+    },
+    {
+      "pair_index": 2,
+      "turn_id": 8,
+      "claim": "You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM.",
+      "claim_type": "NUMERIC",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.409166544675827,
+      "top_evidence_snippet": "There's more information on hotels near the clinic at Click here !.",
+      "top_evidence_source": "https://www.drmalpani.com/travel"
+    },
+    {
+      "pair_index": 4,
+      "turn_id": 12,
+      "claim": "Yes, we can help with accommodation.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.4470368027687073,
+      "top_evidence_snippet": "There's more information on hotels near the clinic at Click here !.",
+      "top_evidence_source": "https://www.drmalpani.com/travel"
+    },
+    {
+      "pair_index": 4,
+      "turn_id": 12,
+      "claim": "You can also explore options through Airbnb.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.38000571727752686,
+      "top_evidence_snippet": "There's more information on hotels near the clinic at Click here !.",
+      "top_evidence_source": "https://www.drmalpani.com/travel"
+    },
+    {
+      "pair_index": 5,
+      "turn_id": 14,
+      "claim": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night.",
+      "claim_type": "NUMERIC",
+      "evidence_confidence": "weak",
+      "best_support_score": 0.3137470483779907,
+      "top_evidence_snippet": "Hotels Near Malpani Infertility Clinic http://www.oyorooms.com/mumbai/hotels-in-CST---South-Mumbai?location=CST+-+South+Mumbai%2C+Mumbai%2C+India&city=mumbai&citycode=MUM&longitude=72.8346536&latitude=18.9409708&pageType=locationHappy Home Hotel66, Woodehouse Road,Opp. Chiragdin ",
+      "top_evidence_source": "https://www.drmalpani.com/hotels"
+    },
+    {
+      "pair_index": 5,
+      "turn_id": 14,
+      "claim": "Malpani.",
+      "claim_type": "ASSERTION",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.43835464119911194,
+      "top_evidence_snippet": "What is address of Dr Malpani clinic?\nAddress: Malpani Infertility Clinic. 505, Jamuna Sagar, near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005",
+      "top_evidence_source": "https://www.drmalpani.com/"
+    },
+    {
+      "pair_index": 6,
+      "turn_id": 18,
+      "claim": "For a specific quotation based on your individual needs, it's best to [book a consultation call](https://pages.razorpay.com/ivfconsultation).",
+      "claim_type": "URL",
+      "evidence_confidence": "medium",
+      "best_support_score": 0.35376083850860596,
+      "top_evidence_snippet": "Maximizing Your IVF Success: Why Patients Choose Malpani Infertility Clinic? Many patients want to travel to Mumbai to do an IVF cycle in our clinic because they know that they will get the best possible medical care. They appreciate the fact that we provide high technology with ",
+      "top_evidence_source": "https://www.drmalpani.com/knowledge-center/articles/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic"
+    }
+  ],
+  "costs": {
+    "total_input_tokens": 13668,
+    "total_output_tokens": 744,
+    "estimated_cost_usd": 0.45468
+  },
+  "warnings": [
+    "Some responses have weak/medium evidence — manual review recommended.",
+    "Completeness is low (mean < 0.35)."
+  ],
+  "natural_language_summary": "Across 6 evaluated replies: mean relevance = 0.46, mean completeness = 0.18, mean hallucination ratio = 0.00."
+}

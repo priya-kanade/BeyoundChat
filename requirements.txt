@@ -1,0 +1,4 @@
+sentence-transformers>=2.2.2
+numpy>=1.23.0
+rouge-score>=0.1.2
+nltk>=3.8.1
