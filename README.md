@@ -35,8 +35,8 @@ BEYOUNDCHAT/
 > Tested on Windows PowerShell and VS Code. Adjust `python`/path for macOS or Linux.
 
 1. Clone the repo (or ensure you're in the project root):
-```powershell
-# if you haven't cloned yet:
+``powershell
+ if you haven't cloned yet:
 git clone https://github.com/priya-kanade/BeyoundChat.git
 cd BeyoundChat
 
@@ -71,7 +71,7 @@ Start the server (see step 4 above).
 
 Run python call_api.py — it will POST the sample JSONs and save the same combined_report.json artifacts server-side and optionally locally.
 
-The evaluation pipeline — architecture & flow
+ # The evaluation pipeline — architecture & flow
 
 Goal: Automatically test LLM answers against an authoritative context and compute metrics used for QA and manual triage.
 
@@ -119,7 +119,7 @@ CLI (evaluate_pipeline.py) — batch artifact generation.
 
 API (api.py) — real-time evaluation with optional server-side saving ("save": true).
 
-Why this design? (choices & reasoning)
+ # Why this design? (choices & reasoning)
 
 Modular, reproducible, and auditable — the pipeline is split into small components (parser, metrics, formatter, API). This provides:
 
@@ -135,13 +135,13 @@ Configurable thresholds: hallucination detection and cost estimation parameters 
 
 Fail-safe behavior: the API will not expose internal tracebacks unless debug_mode=True (local debugging only) and sanitizes file paths before saving.
 
-Why not other approaches?
+ # Why not other approaches?
 
 Calling a heavyweight LLM per claim for verification yields higher accuracy but is costly and slow at scale. Our approach aims for an acceptable precision/recall tradeoff using local evidence matching + selective, heavier verification only for flagged cases.
 
 Embedding contexts at evaluation time is wasteful; embeddings should be precomputed in the vector DB. The system assumes contexts are already vectorized.
 
-Scaling & cost/latency controls (million-conversations-per-day scenario)
+ # Scaling & cost/latency controls (million-conversations-per-day scenario)
 
 To support very high throughput while keeping latency and cost manageable, this design advocates the following patterns:
 
